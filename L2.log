@@ -1,0 +1,30 @@
+2018-11-06 17:41:35,729 - L2 - INFO - Total no. of test case: 4
+2018-11-06 17:41:35,729 - L2 - INFO - [[<selenium.webdriver.chrome.webdriver.WebDriver (session="edc0bc71e9c3571b521452bf385adba9")>, 5, '+', 5, 10], [<selenium.webdriver.chrome.webdriver.WebDriver (session="edc0bc71e9c3571b521452bf385adba9")>, 10, '-', 2, 7], [<selenium.webdriver.chrome.webdriver.WebDriver (session="edc0bc71e9c3571b521452bf385adba9")>, 25, '*', 2, 50], [<selenium.webdriver.chrome.webdriver.WebDriver (session="edc0bc71e9c3571b521452bf385adba9")>, 100, '/', 10, 10]]
+2018-11-06 17:41:35,761 - L2 - INFO - ##########################################################################
+2018-11-06 17:41:35,851 - L2 - INFO - Value '10' is successfully inputed in input_1 field.
+2018-11-06 17:41:35,964 - L2 - INFO - Operation '-' is selected.
+2018-11-06 17:41:36,043 - L2 - INFO - Value '2'' is successfully inputed in input_2 field.
+2018-11-06 17:41:36,143 - L2 - INFO - Click on 'Go' button.
+2018-11-06 17:41:41,227 - L2 - INFO - Expected Value: 7 | Actual Value: 8
+2018-11-06 17:41:41,227 - L2 - INFO - FAIL: Value doesn't match!
+2018-11-06 17:41:41,296 - L2 - INFO - ##########################################################################
+2018-11-06 17:41:41,353 - L2 - INFO - Value '100' is successfully inputed in input_1 field.
+2018-11-06 17:41:41,455 - L2 - INFO - Operation '/' is selected.
+2018-11-06 17:41:41,506 - L2 - INFO - Value '10'' is successfully inputed in input_2 field.
+2018-11-06 17:41:41,565 - L2 - INFO - Click on 'Go' button.
+2018-11-06 17:41:46,618 - L2 - INFO - Expected Value: 10 | Actual Value: 10
+2018-11-06 17:41:46,619 - L2 - INFO - PASS: Value matches!
+2018-11-06 17:41:46,623 - L2 - INFO - ##########################################################################
+2018-11-06 17:41:46,687 - L2 - INFO - Value '25' is successfully inputed in input_1 field.
+2018-11-06 17:41:46,789 - L2 - INFO - Operation '*' is selected.
+2018-11-06 17:41:46,841 - L2 - INFO - Value '2'' is successfully inputed in input_2 field.
+2018-11-06 17:41:46,897 - L2 - INFO - Click on 'Go' button.
+2018-11-06 17:41:51,944 - L2 - INFO - Expected Value: 50 | Actual Value: 50
+2018-11-06 17:41:51,945 - L2 - INFO - PASS: Value matches!
+2018-11-06 17:41:51,948 - L2 - INFO - ##########################################################################
+2018-11-06 17:41:52,000 - L2 - INFO - Value '5' is successfully inputed in input_1 field.
+2018-11-06 17:41:52,104 - L2 - INFO - Operation '+' is selected.
+2018-11-06 17:41:52,144 - L2 - INFO - Value '5'' is successfully inputed in input_2 field.
+2018-11-06 17:41:52,211 - L2 - INFO - Click on 'Go' button.
+2018-11-06 17:41:57,237 - L2 - INFO - Expected Value: 10 | Actual Value: 10
+2018-11-06 17:41:57,238 - L2 - INFO - PASS: Value matches!
