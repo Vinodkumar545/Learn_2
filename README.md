@@ -23,3 +23,10 @@
 8. pytest test_execute.py -vv
 
 That's it. 
+
+# Couple of open challenges on this approach
+
+1. In this approach, the driver is initialized and is never closed and also workbook is saved for every test case execution.
+How do you think we can solve it?
+
+2. Also, how can we improve the time execution/performance?
