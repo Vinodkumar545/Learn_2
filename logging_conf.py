@@ -1,5 +1,7 @@
 # coding=utf-8
 
+# https://gist.github.com/declaresub/2cf0e6f4a08129e2a4e4
+
 from logging import config
 import logging
 
